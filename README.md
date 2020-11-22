@@ -1,6 +1,7 @@
 ## Hi there
 
-Garam Lee, Android developer
+Hi! I'm Garam Lee who is interested in Android study from South Korea.
+<br></br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeGaramm&hide=contribs,stars&show_icons=true)
 <br></br>
