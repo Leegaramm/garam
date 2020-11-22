@@ -1,5 +1,4 @@
 # garam
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=garam)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeGaramm&hide=contribs,stars)
 
