@@ -13,4 +13,10 @@
 안녕하세요!<br></br>
 저는 안드로이드 운영체제와 모바일 개발에 관심이 많은 **이가람**입니다.
 
+<br></br>
+ [![gaaraam's github stats](https://github-readme-stats.vercel.app/api?username=gaaraam&show_icons=true&theme=dracula)](https://github.com/gaaraam/github-readme-stats) 
+ <br></br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaaraam&layout=compact&theme=dracula)](https://github.com/gaaraam)
+
+
 
