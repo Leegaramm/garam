@@ -15,8 +15,11 @@
 저는 안드로이드 운영체제와 모바일 개발에 관심이 많은 **이가람**입니다.
 
 <br></br>
- ![gaaraam's github stats](https://github-readme-stats.vercel.app/api?username=gaaraam&show_icons=true&theme=buefy)
- <br></br>
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=gaaraam&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaraam&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>   <br></br>
 
 
 
