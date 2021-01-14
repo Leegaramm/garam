@@ -18,6 +18,7 @@
 
 
 
+
 안녕하세요!
 
 저는 안드로이드 운영체제와 모바일 개발에 관심이 많은 **이가람**입니다.
@@ -28,6 +29,8 @@
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaraam&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>   <br></br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaaraam&count_bg=%2383F73C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
