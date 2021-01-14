@@ -1,5 +1,5 @@
 ## Hi there👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaaraam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaaraam&count_bg=%2383F73C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <a href="https://gaaraam.github.io/">
   <img src = "http://img.shields.io/badge/-Blog-655ced?style=flat-square&logo=github&link=https://gaaraam.github.io/"/>
   </a>
