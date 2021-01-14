@@ -7,3 +7,8 @@ I'm Garam Lee who is interested in Android study from 🇰🇷South Korea.
 [blog](http://gaaraam.github.io)
 <br></br>
 [Today I Learn](http://gaaraam.gitbook.io)
+
+<br></br>
+
+[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+
