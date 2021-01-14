@@ -1,6 +1,6 @@
 ## Hi there👋
 <a href="https://gaaraam.gitbook.io" target="_blank">
-<img src=https://img.shields.io/badge/gitbook-%2324292e.svg?&style=for-the-badge&logo=gitbook&logoColor=white alt=gitbook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/til-%2324292e.svg?&style=for-the-badge&logo=gitbook&logoColor=white alt=gitbook style="margin-bottom: 5px;" />
 </a>
 <a href="https://gaaraam.github.io" target="_blank">
 <img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=blog style="margin-bottom: 5px;" />
