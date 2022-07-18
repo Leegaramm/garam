@@ -39,3 +39,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaaraam&count_bg=%2383F73C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
+[![wakatime](https://wakatime.com/badge/user/be4ead40-52f9-4536-8e4f-a8e59ffb0a09/project/428e28c1-7f9e-4f32-a7e5-1534bcb4800e.svg)](https://wakatime.com/badge/user/be4ead40-52f9-4536-8e4f-a8e59ffb0a09/project/428e28c1-7f9e-4f32-a7e5-1534bcb4800e)
